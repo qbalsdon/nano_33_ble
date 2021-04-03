@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nano 33 BLE</string>
+    <string name="ble_not_supported">Bluetooth Low Energy not supported on this Android device!</string>
+    <string name="permission_rationale_title">Bluetooth Low Energy Requires location</string>
+    <string name="permission_rationale_message">Google has decided on behalf of users that location services are required for Bluetooth Low Energy technologies. This is apparently due to the device MAC address being made available in a local area network. My argument would be the same thing could be acheived using WiFi, but I don\'t write security permissions for Android, just apps.</string>
+    <string name="loading">loading</string>
+    <string name="state_connected">Connected to device</string>
+    <string name="state_disconnected">Disconnected from device</string>
+    <string name="state_connecting">Connecting to device</string>
+    <string name="state_disconnecting">Disconnecting from device</string>
+    <string name="state_unkown">Unknow state parameter received</string>
+    <string name="state_started">Attempting connection...</string>
+    <string name="label_y_rotation">ROTATION Y:</string>
+    <string name="label_x_rotation">ROTATION X:</string>
+    <string name="label_z_rotation">ROTATION Z:</string>
+</resources>
